@@ -1,2 +1,2 @@
 # new file
-This is a new extension
+This is a new extension.
